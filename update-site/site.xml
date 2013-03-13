@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Hellbound Simulations" url="http://svn.tensegrity.hellblazer.com/3Space/trunk/update-site">
+   <description name="Hellbound Simulations" url="http://tensegrity.hellblazer.com/Hellbound/update-site">
       Prime Mover Event Driven Simulation framework and tools
    </description>
    <feature url="features/com.hellblazer.primeMover.eclipse.feature_0.0.3.jar" id="com.hellblazer.primeMover.eclipse.feature" version="0.0.5.qualifier">
